@@ -8,5 +8,5 @@ For the 17 hardest 80-step puzzles, average time = 7.1s
 For 10000 random puzzle, average time = 4.232ms (get random permutaion untill 10000 legal puzzles)
 
 (Using no pragma besides -O2 cost 4% more time)
-
+ 
 The multi-thread version code might be implemented later.
